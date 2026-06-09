@@ -1,6 +1,6 @@
 # Hackboard - Hackathon Project Manager 🚀
 
-**🌐 Live Demo:** [https://hackboard.vercel.app/](https://hackboard.vercel.app/)
+**🌐 Live Demo:** [https://hackaboard-one.vercel.app/](https://hackaboard-one.vercel.app/)
 
 Hackboard is a modern, real-time project management tool built specifically for hackathons and fast-paced agile teams. It provides a collaborative environment with live presence tracking, a dynamic drag-and-drop Kanban board, and activity feeds.
 
